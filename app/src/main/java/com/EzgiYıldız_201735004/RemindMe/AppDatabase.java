@@ -1,4 +1,4 @@
-package com.example.reminderapp;
+package com.example.RemindMe;
 
 import android.arch.persistence.room.Database;
 import android.arch.persistence.room.Room;

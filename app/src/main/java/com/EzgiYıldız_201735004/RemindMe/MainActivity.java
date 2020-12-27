@@ -1,6 +1,5 @@
-package com.example.reminderapp;
+package com.example.RemindMe;
 
-import android.arch.persistence.room.Room;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

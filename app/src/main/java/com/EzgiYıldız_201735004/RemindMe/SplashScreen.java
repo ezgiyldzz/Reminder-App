@@ -1,4 +1,4 @@
-package com.example.reminderapp;
+package com.example.RemindMe;
 
 import android.content.Intent;
 import android.os.Handler;

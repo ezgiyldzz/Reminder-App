@@ -1,4 +1,4 @@
-package com.example.reminderapp;
+package com.example.RemindMe;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.reminderapp;
+package com.example.RemindMe;
 
 import android.app.AlarmManager;
 import android.app.DatePickerDialog;
@@ -18,7 +18,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.DatePicker;
 import android.widget.EditText;
-import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.TimePicker;
 import android.widget.Toast;
