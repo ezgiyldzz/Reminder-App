@@ -1,4 +1,4 @@
-package com.example.RemindMe;
+package com.EzgiYıldız_201735004.RemindMe;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

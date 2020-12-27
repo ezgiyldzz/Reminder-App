@@ -43,7 +43,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/editText2"
         android:layout_centerHorizontal="true"
-        android:text="Login" />
+        android:text="Logın"
+        android:backgroundTint="#a30004"/>
 
     <TextView
         android:id="@+id/register"
@@ -52,7 +53,7 @@
         android:layout_below="@id/button"
         android:layout_marginTop="20dp"
         android:textAlignment="center"
-        android:text="New User, Click here to register"/>
+        android:text="Registration for new user"/>
 
 
 </RelativeLayout>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.reminderapp">
+    package="com.EzgiYıldız_201735004.RemindMe">
 
     <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY"/>
 
@@ -11,8 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SplashScreen"
-            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <activity android:name="com.EzgiYıldız_201735004.RemindMe.SplashScreen"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -20,11 +20,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Register" />
-        <activity android:name=".MainPage" />
-        <activity android:name=".MainActivity">
+        <activity android:name="com.EzgiYıldız_201735004.RemindMe.Register" />
+        <activity android:name="com.EzgiYıldız_201735004.RemindMe.MainPage" />
+        <activity android:name="com.EzgiYıldız_201735004.RemindMe.MainActivity">
         </activity>
-        <receiver android:name=".NotifierAlarm"/>
+        <receiver android:name="com.EzgiYıldız_201735004.RemindMe.NotifierAlarm"/>
     </application>
 
 </manifest>

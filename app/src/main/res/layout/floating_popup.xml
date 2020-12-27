@@ -4,7 +4,7 @@
     android:layout_width="300dp"
     android:layout_height="350dp"
     android:orientation="vertical"
-    android:background="#CCCCFF"
+    android:background="@drawable/floating_bg"
     android:layout_gravity="center"
     android:padding="25dp">
 
@@ -28,6 +28,7 @@
             android:layout_height="match_parent"
             android:layout_weight="0"
             android:gravity="center"
+            android:backgroundTint="#417341"
             android:text="SELECT"/>
 
     </LinearLayout>
@@ -46,6 +47,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
+        android:backgroundTint="#B94CAF50"
         android:text="Add"
         android:layout_gravity="center" />
 

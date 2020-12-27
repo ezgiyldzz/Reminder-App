@@ -1,4 +1,4 @@
-package com.example.RemindMe;
+package com.EzgiYıldız_201735004.RemindMe;
 
 import android.app.Notification;
 import android.app.NotificationChannel;
